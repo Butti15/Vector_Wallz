@@ -29,6 +29,6 @@ LOCAL_AAPT_FLAGS := --auto-add-overlay \
     --extra-packages android.support.v7.appcompat \
     --extra-packages android.support.design
 
-LOCAL_PACKAGE_NAME := CosmicWalls
+LOCAL_PACKAGE_NAME := SocialWalls
 
 include $(BUILD_PACKAGE)
