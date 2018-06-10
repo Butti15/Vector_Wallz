@@ -7,7 +7,7 @@
  * or at https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-package com.cosmic.CosmicWalls;
+package com.social.SocialWalls;
 
 import android.app.Activity;
 import android.app.AlertDialog;
