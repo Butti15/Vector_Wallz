@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012-2017 ParanoidAndroid Project
+
+     Licensed under the GNU GPLv2 license
+
+     The text of the license can be found in the LICENSE file
+     or at https://www.gnu.org/licenses/gpl-2.0.txt
+-->
+
+<resources>
+    <string name="applying">Aplicando fondo seleccionado</string>
+    <string name="longpress_info">Pulsación larga para aplicar el fondo de pantalla</string>
+</resources>
