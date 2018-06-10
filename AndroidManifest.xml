@@ -8,7 +8,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.cosmic.CosmicWalls"
+    package="com.social.SocialWalls"
     android:versionCode="23"
     android:versionName="2.3" >
 
